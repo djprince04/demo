@@ -3,4 +3,4 @@
 this is a simple readme
 hello
 crazy1
-you are cool
+you really crazy
